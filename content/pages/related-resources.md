@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and links to related resources for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -12,9 +14,9 @@ Guidelines
 [Citation Guidelines](http://owl.english.purdue.edu/owl/resource/747/01/)  
 \[From the Purdue OWL (Online Writing Lab). Follow links to information on citing sources and using correct form for Works Cited lists.\]
 
-Guidelines for In-Class Report ([PDF]({{< baseurl >}}/resources/mit21l_310s10_rr01))
+Guidelines for In-Class Report ({{% resource_link 6aae47a8-d586-095a-7e08-ee8dd4779664 "PDF" %}})
 
-Schacter, Daniel L. "The Seven Sins of Memory: Insights From Psychology and Cognitive Neuroscience." Harvard University. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.wjh.harvard.edu/~scanlab/Papers/2003_Schacter_SevenSinsSelf.pdf))
+Schacter, Daniel L. "The Seven Sins of Memory: Insights From Psychology and Cognitive Neuroscience." Harvard University. ([PDF](http://www.wjh.harvard.edu/~scanlab/Papers/2003_Schacter_SevenSinsSelf.pdf))
 
 Resources
 ---------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the two essay assignments of the
+  course and information on assignment requirements.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
